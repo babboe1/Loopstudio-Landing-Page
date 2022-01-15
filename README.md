@@ -1,1 +1,1 @@
-# Loopstudio-Landing-Page
+# Frontend Mentor - Loopstudios landing page solution
