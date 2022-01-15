@@ -9,3 +9,4 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
+  - [Built with](#built-with)
