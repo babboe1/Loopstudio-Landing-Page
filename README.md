@@ -15,3 +15,5 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+## Overview
