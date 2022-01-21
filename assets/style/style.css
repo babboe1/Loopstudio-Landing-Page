@@ -46,6 +46,9 @@ body {
 .ImgLogo, .MenuBtn {
    height: min-content;
 }
+.MenuBtn {
+   padding-top: 8px;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
