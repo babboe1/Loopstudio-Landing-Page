@@ -1,6 +1,11 @@
 .attribution {
    font-size: 11px;
    text-align: center;
+   padding: 2rem 0 0em;
+}
+:root {
+  --animate-duration: 5s;
+  --animate-delay: 1s;
 }
 .attribution a {
 	color: hsl(228, 45%, 44%);
