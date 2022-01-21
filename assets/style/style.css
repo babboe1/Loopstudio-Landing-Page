@@ -1,3 +1,15 @@
+html,
+body {
+   padding: 0;
+	margin: 0;
+   font-family: 'Alata', sans-serif;
+   scroll-behavior: smooth;
+}
+* {
+   box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
