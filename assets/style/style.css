@@ -32,6 +32,11 @@ body {
    background-position: center top, center bottom;
    padding: 2rem 1rem 0;
 }
+.BlackBg {
+   background-color: #010101;
+   background-size: 90rem 20rem;
+   background-position: center bottom;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
