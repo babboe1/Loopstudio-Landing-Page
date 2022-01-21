@@ -49,6 +49,17 @@ body {
 .MenuBtn {
    padding-top: 8px;
 }
+#header_1{
+   border: 1px solid white;
+   padding: 1rem;
+   font-size: 44px;
+   color: white;
+   font-weight: 300;
+  animation-name: example;
+  animation-duration: .8s; 
+  animation-iteration-count: 1; 
+  animation-fill-mode: forwards;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
