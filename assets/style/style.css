@@ -96,6 +96,9 @@ body {
    color: #010101;
    text-align: center;
 }
+.ActionBtn.Desktop {
+   display: none;
+}
 #backdrop {
 	position: fixed;
 	width: 100%;
