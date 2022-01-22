@@ -238,6 +238,11 @@ ul{
     justify-content: center;
     padding: 4rem 0 1rem;
 }
+.FooterText {
+   font-size: 14px;
+   line-height:1.5rem;
+   color: #818181;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
