@@ -127,6 +127,16 @@ body {
    flex-direction: column;
    row-gap: 1.5rem;
 }
+.CreationImgBox {
+   width: 100%;
+   height: 8rem;
+   background-size: cover;
+   background-repeat: no-repeat;
+   color: #e2e1e1;
+   padding: 4rem 1rem 0;
+   font-weight: 300;
+   font-size: 20px;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
