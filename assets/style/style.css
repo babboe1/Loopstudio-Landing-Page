@@ -76,6 +76,9 @@ body {
      margin:auto;
    }
 }
+.Header_1 {
+   max-width: 22rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
