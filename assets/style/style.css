@@ -99,6 +99,11 @@ body {
 .ActionBtn.Desktop {
    display: none;
 }
+.LightText {
+   font-size: 15px;
+   color: #848484;
+   line-height: 1.5rem;
+}
 #backdrop {
 	position: fixed;
 	width: 100%;
