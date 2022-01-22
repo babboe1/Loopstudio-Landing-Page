@@ -119,6 +119,9 @@ body {
 	display: block;
 	pointer-events: all;
 }
+.CreationTextBox {
+   padding: 3rem 0rem 1rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
