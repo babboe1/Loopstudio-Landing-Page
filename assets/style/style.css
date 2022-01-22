@@ -223,6 +223,12 @@ body {
    max-width: 1110px;
    margin: auto;
 }
+ul{
+   list-style: none;
+   display: flex;
+   flex-direction: column;
+   row-gap: 2rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
