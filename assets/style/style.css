@@ -137,6 +137,11 @@ body {
    font-weight: 300;
    font-size: 20px;
 }
+.CreationBox {
+   display: flex;
+   flex-direction: column;
+   row-gap: 1.5rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
