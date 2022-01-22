@@ -177,6 +177,30 @@ body {
       background-image: url(../image/mobile/image-deep-earth.jpg);
    }
 }
+.bg1 {
+   background-image: url(../image/mobile/image-deep-earth.jpg);
+}
+.bg2 {
+   background-image: url(../image/mobile/image-night-arcade.jpg)
+}
+.bg3 {
+   background-image: url(../image/mobile/image-soccer-team.jpg)
+}
+.bg4 {
+   background-image: url(../image/mobile/image-grid.jpg)
+}
+.bg5 {
+   background-image: url(../image/mobile/image-from-above.jpg)
+}
+.bg6 {
+   background-image: url(../image/mobile/image-pocket-borealis.jpg)
+}
+.bg7 {
+   background-image: url(../image/mobile/image-curiosity.jpg)
+}
+.bg8 {
+   background-image: url(../image/mobile/image-fisheye.jpg)
+}
 .attribution {
    font-size: 11px;
    text-align: center;
