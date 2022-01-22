@@ -204,6 +204,17 @@ body {
 .ActionBtn {
    padding: 2rem 0rem 6rem;
 }
+.ActionText {
+   border: 1px solid;
+   margin: auto;
+   padding: 0.8rem;
+   text-align: center;
+   max-width: 8rem;
+   word-spacing: 3px;
+   letter-spacing: 2px;
+   font-size: 12px;
+   font-weight: bold;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
