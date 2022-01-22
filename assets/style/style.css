@@ -122,6 +122,11 @@ body {
 .CreationTextBox {
    padding: 3rem 0rem 1rem;
 }
+.CreationContent {
+   display: flex;
+   flex-direction: column;
+   row-gap: 1.5rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
