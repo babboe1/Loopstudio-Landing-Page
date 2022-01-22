@@ -201,6 +201,9 @@ body {
 .bg8 {
    background-image: url(../image/mobile/image-fisheye.jpg)
 }
+.ActionBtn {
+   padding: 2rem 0rem 6rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
