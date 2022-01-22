@@ -60,6 +60,22 @@ body {
   animation-iteration-count: 1; 
   animation-fill-mode: forwards;
 }
+@keyframes example {
+  0% {
+     top: 200px;
+     position: relative;
+     width: 60%;
+     font-size: 24px;
+     margin:auto;
+   }
+  100% {
+     position: relative;
+     top: 0px;
+     width: 100%;
+     font-size: 44px;
+     margin:auto;
+   }
+}
 .attribution {
    font-size: 11px;
    text-align: center;
