@@ -229,6 +229,9 @@ ul{
    flex-direction: column;
    row-gap: 2rem;
 }
+.FooterLogo {
+   padding-bottom: 4rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
