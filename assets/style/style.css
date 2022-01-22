@@ -142,6 +142,11 @@ body {
    flex-direction: column;
    row-gap: 1.5rem;
 }
+.BgSlide {
+   animation-name: test1;
+  animation-duration: 24s; 
+  animation-iteration-count: infinite; 
+}
 .attribution {
    font-size: 11px;
    text-align: center;
