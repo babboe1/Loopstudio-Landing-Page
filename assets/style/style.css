@@ -147,6 +147,36 @@ body {
   animation-duration: 24s; 
   animation-iteration-count: infinite; 
 }
+@keyframes test1 {
+   0% {
+      background-image: url(../image/mobile/image-deep-earth.jpg);
+   }
+   12.5% {
+      background-image: url(../image/mobile/image-night-arcade.jpg);
+   
+   }
+   25% {
+      background-image: url(../image/mobile/image-soccer-team.jpg)
+   }
+   37.5% {
+      background-image: url(../image/mobile/image-grid.jpg)
+   }
+   50% {
+      background-image: url(../image/mobile/image-from-above.jpg);
+   }
+   62.5% {
+      background-image: url(../image/mobile/image-pocket-borealis.jpg);
+   }
+   75% {
+      background-image: url(../image/mobile/image-curiosity.jpg);
+   }
+   87.5% {
+      background-image: url(../image/mobile/image-fisheye.jpg);
+   }
+   100% {
+      background-image: url(../image/mobile/image-deep-earth.jpg);
+   }
+}
 .attribution {
    font-size: 11px;
    text-align: center;
