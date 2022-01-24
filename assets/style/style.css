@@ -287,6 +287,18 @@ ul{
       transform: translateX(0);
    }
 }
+@keyframes fade-slide-out {
+   from {
+      opacity: 100%;
+      height: auto;
+      transform: translateX(0);
+   }
+   to {
+      opacity: 100%;
+      height: auto;
+      transform: translateX(100%);
+   }
+}
 .attribution {
    font-size: 11px;
    text-align: center;
