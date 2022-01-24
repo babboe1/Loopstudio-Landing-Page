@@ -264,6 +264,11 @@ ul{
    display: block;
    animation: fade-slide-out .8s ease-out forwards;
 }
+.NavBarModal {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
