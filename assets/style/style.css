@@ -243,6 +243,19 @@ ul{
    line-height:1.5rem;
    color: #818181;
 }
+.Modal {
+   position: absolute;
+   z-index: 100;
+   background: black;
+   width: 85%;
+   max-width: 400px;
+   top: 0;
+   right: 0%;
+   padding: 2rem 1rem 0;
+   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+   display: none;
+   overflow-y: initial;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
