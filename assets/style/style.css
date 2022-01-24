@@ -316,7 +316,11 @@ ul{
    #header {
       height: 15rem;
    }
-.StopScroll {
-	height: 100%;
-	overflow: hidden;
+   #header_1{
+      font-size: 51px;
+   }
+   .CreationImgBox {
+      height: 10rem;
+      padding: 5rem 1rem 0;
+   }
 }
