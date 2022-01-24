@@ -269,6 +269,12 @@ ul{
    justify-content: space-between;
    align-items: center;
 }
+.ModalList {
+   row-gap: 3rem;
+   color:white;
+   padding: 8rem 0;
+   font-size: 1.5rem;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
