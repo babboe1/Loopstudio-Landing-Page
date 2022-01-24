@@ -256,6 +256,14 @@ ul{
    display: none;
    overflow-y: initial;
 }
+.Modal.visible {
+   display: block;
+   animation: fade-slide-in .8s ease-out forwards;
+}
+.Modal.invisible {
+   display: block;
+   animation: fade-slide-out .8s ease-out forwards;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
