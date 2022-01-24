@@ -355,3 +355,10 @@ ul{
       }
    }
 }
+
+@media screen and (min-width: 1040px){
+   .OverviewText {
+      max-width: 26rem;
+      padding: 16rem 0rem 0rem;
+   }
+}
