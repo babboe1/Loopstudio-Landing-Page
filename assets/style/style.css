@@ -275,6 +275,18 @@ ul{
    padding: 8rem 0;
    font-size: 1.5rem;
 }
+@keyframes fade-slide-in {
+   from {
+      opacity: 100%;
+      height: auto;
+      transform: translateX(100%);
+   }
+   to {
+      opacity: 100%;
+      height: auto;
+      transform: translateX(0);
+   }
+}
 .attribution {
    font-size: 11px;
    text-align: center;
