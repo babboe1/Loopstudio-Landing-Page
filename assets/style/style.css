@@ -25,6 +25,7 @@ body {
    overflow: hidden;
 }
 #body_content {
+   width: 100%;
    max-width: 1440px;
    margin: auto;
    background: url(../image/mobile/image-hero.jpg), url(../image/Black.jpg);
