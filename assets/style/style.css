@@ -53,6 +53,9 @@ body {
 .ImgLogo, .MenuBtn {
    height: min-content;
 }
+.InfoList ul {
+   display: none;
+}
 .MenuBtn {
    padding-top: 8px;
 }
