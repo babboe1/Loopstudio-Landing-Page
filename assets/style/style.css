@@ -70,10 +70,10 @@ body {
    font-size: 44px;
    color: white;
    font-weight: 300;
-  animation-name: example;
+   animation-name: example;
    animation-duration: 1.5s; 
    animation-iteration-count: 1; 
-  animation-fill-mode: forwards;
+   animation-fill-mode: forwards;
 }
 @keyframes example {
   0% {
