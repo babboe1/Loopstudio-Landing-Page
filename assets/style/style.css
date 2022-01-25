@@ -157,6 +157,23 @@ body {
    flex-direction: column;
    row-gap: 1.5rem;
 }
+.animate_easy {
+   animation: easy 1s ease-in forwards;
+}
+.animate_ease_out {
+   animation: easy 1s ease-in forwards reverse;
+}
+@keyframes easy {
+   from {
+      opacity: 30%;
+      transform: scale(0.7);
+
+   }
+   to {
+      opacity: 100%;
+      transform: scale(1);
+   }
+}
 .BgSlide { 
    overflow: hidden;
    animation-name: test1, grow;
