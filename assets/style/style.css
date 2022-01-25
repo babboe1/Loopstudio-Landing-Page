@@ -158,9 +158,21 @@ body {
    row-gap: 1.5rem;
 }
 .BgSlide {
-   animation-name: test1;
-  animation-duration: 24s; 
-  animation-iteration-count: infinite; 
+   overflow: hidden;
+   animation-name: test1, grow;
+  animation-duration: 32s, 8s; 
+  animation-iteration-count: infinite, infinite; 
+}
+@keyframes grow {
+   0%{
+      transform: scale(0.7);
+   }
+   50% {
+      transform: scale(1);
+   }
+   100%{
+      transform: scale(0.7);
+   }
 }
 @keyframes test1 {
    0% {
