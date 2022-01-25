@@ -71,8 +71,8 @@ body {
    color: white;
    font-weight: 300;
   animation-name: example;
-  animation-duration: .8s; 
-  animation-iteration-count: 1; 
+   animation-duration: 1.5s; 
+   animation-iteration-count: 1; 
   animation-fill-mode: forwards;
 }
 @keyframes example {
