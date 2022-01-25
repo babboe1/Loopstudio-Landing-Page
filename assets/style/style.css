@@ -59,6 +59,11 @@ body {
 .MenuBtn {
    padding-top: 8px;
 }
+#main {
+   width: 100%;
+   max-width: 1110px;
+   margin: auto;
+}
 #header_1{
    border: 1px solid white;
    padding: 1rem;
