@@ -288,7 +288,7 @@ ul{
    animation: fade-slide-in .8s ease-out forwards;
 }
 .Modal.invisible {
-   display: block;
+   display: block; 
    animation: fade-slide-out .8s ease-out forwards;
 }
 .NavBarModal {
