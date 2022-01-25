@@ -4,10 +4,7 @@ body {
    padding: 0;
 	margin: 0;
    font-family: 'Alata', sans-serif;
-   scroll-behavior: smooth;
-   box-shadow: 0px 0px 400px 197px rgba(194,25,166,0.49);
-   -webkit-box-shadow: 0px 0px 400px 197px rgba(194,25,166,0.49);
-   -moz-box-shadow: 0px 0px 400px 197px rgba(194,25,166,0.49);
+   overflow-x: hidden;
 }
 * {
    box-sizing: border-box;
