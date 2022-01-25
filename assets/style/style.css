@@ -304,26 +304,29 @@ ul{
 }
 @keyframes fade-slide-in {
    from {
-      opacity: 100%;
+      opacity: 0;
+      display: block;
       height: auto;
-      transform: translateX(100%);
+      width: 0;
+      z-index: 100;
    }
    to {
       opacity: 100%;
       height: auto;
-      transform: translateX(0);
+      width: 100%;
    }
 }
 @keyframes fade-slide-out {
    from {
       opacity: 100%;
       height: auto;
-      transform: translateX(0);
+      width: 100%
    }
    to {
-      opacity: 100%;
+      opacity: 0;
       height: auto;
-      transform: translateX(100%);
+      width: 0;
+      z-index: -1;
    }
 }
 .attribution {
