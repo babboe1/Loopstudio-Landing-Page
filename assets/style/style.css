@@ -21,7 +21,7 @@ body {
    max-width: fit-content;
 }
 .StopScroll {
-   height: 100%;
+   height: 100vh;
    overflow: hidden;
 }
 #body_content {
