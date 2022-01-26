@@ -175,7 +175,14 @@ body {
    animation-delay:29s;
    animation-fill-mode: forwards;
 }
-
+@keyframes fade-text {
+   0% {
+      opacity: 1;
+   }
+   12.5%,100%{ 
+      opacity: 0;
+   }
+}
 .CreationImgBox {
    width: 100%;
    height: 8rem;
