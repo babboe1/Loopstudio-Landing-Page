@@ -479,6 +479,10 @@ P:hover {
    .MenuBtn {
    display: none;
    }
+   #nav {
+      padding: 0.5rem;
+      font-size: 14px;
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
