@@ -486,6 +486,36 @@ P:hover {
    .Header_1 {
    max-width: 25rem;
    }
+   @keyframes example {
+   0% {
+      left: 300px;
+      position: relative;
+      width: 60%;
+      font-size: 24px;
+      margin:auto;
+   }
+   33.3% {
+      position: relative;
+      left: 0px;
+      width: 100%;
+      font-size: 44px;
+      margin:auto;
+   }
+66.6% {
+      left: 100px;
+      position: relative;
+      width: 60%;
+      font-size: 24px;
+      margin:auto;
+   }
+   100% {
+      position: relative;
+      left: 0px;
+      width: 100%;
+      font-size: 44px;
+      margin:auto;
+   }
+}
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
