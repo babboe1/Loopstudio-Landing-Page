@@ -458,6 +458,14 @@ P:hover {
 }
 }
 @media screen and (min-width: 768px) {
+   #body_content {
+   background: url(../image/desktop/image-hero.jpg), url(../image/Black.jpg);
+   background-size: contain, 90rem 10rem;
+   background-repeat: no-repeat, no-repeat;
+   background-position: center top, center bottom;
+   padding: 2rem 2rem 0;
+   width:768px
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
