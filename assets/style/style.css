@@ -398,6 +398,9 @@ ul{
       z-index: -1;
    }
 }
+P:hover {
+   cursor: pointer;
+}
 .attribution {
    font-size: 11px;
    text-align: center;
