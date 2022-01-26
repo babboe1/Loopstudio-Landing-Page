@@ -532,6 +532,10 @@ P:hover {
     margin-left: -5rem;
     padding: 4.5rem 0rem 0rem;
 }
+.header_2{
+    background: white;
+    padding: 3rem 0rem 0rem;
+}
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
