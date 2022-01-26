@@ -535,3 +535,66 @@ P:hover {
       padding: 16rem 0rem 0rem;
    }
 }
+@media screen and (min-width: 1440px) {
+   #body_content {
+      background-size: 1440px 650px, 90rem 10rem;
+      width: 1440px;
+   }
+   #header {
+      height: 13rem;
+   }
+   .Header_1 {
+      max-width: 40rem;
+   }
+   .overview {
+      padding-top: 16rem;
+   }
+   @keyframes example {
+      0% {
+         left: 300px;
+         position: relative;
+         width: 60%;
+         font-size: 44px;
+         margin:auto;
+      }
+      50% {
+         position: relative;
+         left: 0px;
+         width: 100%;
+         font-size: 64px;
+         margin:auto;
+      }
+      75% {
+         left: 100px;
+         position: relative;
+         width: 60%;
+         font-size: 44px;
+         margin:auto;
+      }
+      100% {
+         position: relative;
+         left: 0px;
+         width: 100%;
+         font-size: 64px;
+         margin:auto;
+      }
+   }
+   .header_2 {
+      padding: 4rem 0rem 0rem;
+   }
+   .LightText {
+      font-size: 16px;
+      line-height: 1.5rem;
+   }
+   .OverviewText {
+      max-width: 39rem;
+      padding: 14.5rem 0rem 0rem 6rem;
+   }
+   .OverviewText h2 {
+      padding: 4rem 3rem 0rem;
+   }
+   .CreationImgBox {
+      height: 28rem;
+      padding: 24rem 1rem 0;
+   }
+}
