@@ -469,6 +469,13 @@ P:hover {
    #header {
       height: 5.5rem;
    }
+   .InfoList ul {
+      display: flex;
+      list-style: none;
+      flex-direction: row;
+      column-gap: 1.5rem;
+      color: white;
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
