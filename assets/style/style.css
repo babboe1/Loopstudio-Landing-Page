@@ -142,7 +142,18 @@ body {
    flex-direction: column;
    row-gap: 1.5rem;
 }
-
+.Opacity {
+   opacity: 1;
+}
+.TextContent, .Animate {
+   position: absolute;
+    bottom: 15px;
+    left: 15px;
+    opacity: 0;
+   }
+   .TextContent {
+      animation: fade-text 32s ease-in infinite;
+   }
 .Text_2{
    animation-delay:1s;
    animation-fill-mode: forwards;
