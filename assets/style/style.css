@@ -142,6 +142,40 @@ body {
    flex-direction: column;
    row-gap: 1.5rem;
 }
+
+.Text_2{
+   animation-delay:1s;
+   animation-fill-mode: forwards;
+}
+.Text_3{
+   animation-delay:5s;
+   animation-fill-mode: forwards;
+}
+.Text_4{
+   animation-delay:9s;
+   animation-fill-mode: forwards;
+}
+.Text_5{
+   animation-delay:13s;
+   animation-fill-mode: forwards;
+}
+.Text_6{
+   animation-delay:17s;
+   animation-fill-mode: forwards;
+}
+.Text_7{
+   animation-delay:21s;
+   animation-fill-mode: forwards;
+}
+.Text_8{
+   animation-delay:25s;
+   animation-fill-mode: forwards;
+}
+.Text_1{
+   animation-delay:29s;
+   animation-fill-mode: forwards;
+}
+
 .CreationImgBox {
    width: 100%;
    height: 8rem;
