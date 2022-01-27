@@ -611,6 +611,14 @@ P:hover {
    .Animate {
       animation: desktop-fade 10s ease-in infinite;
    }
+   @keyframes desktop-fade {
+      0%{
+         opacity: 1;
+      }
+      50%, 100%{
+         opacity: 0;
+      }
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
