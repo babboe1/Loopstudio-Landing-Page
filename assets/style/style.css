@@ -619,6 +619,37 @@ P:hover {
          opacity: 0;
       }
    }
+   .BgSlide {
+      display: none;
+   }
+   .BG1, .BG2, .BG3, .BG4{
+      animation-delay:7s;
+      animation-fill-mode: forwards;
+   }
+   .BG5, .BG6, .BG7, .BG8 {
+      animation-delay:2s;
+      animation-fill-mode: forwards;
+   }
+   .bg1, .bg5 {
+      animation-name: test1, grow;
+      animation-duration: 10s, 10s; 
+      animation-iteration-count: infinite;
+   }
+      .bg2, .bg6 {
+      animation-name: test2, grow;
+      animation-duration: 10s, 10s; 
+      animation-iteration-count: infinite;
+   }
+      .bg3, .bg7 {
+         animation-name: test3, grow;
+         animation-duration: 10s, 10s; 
+         animation-iteration-count: infinite;
+      }
+      .bg4, .bg8 {
+         animation-name: test4, grow;
+         animation-duration: 10s, 10s; 
+         animation-iteration-count: infinite;
+      }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
