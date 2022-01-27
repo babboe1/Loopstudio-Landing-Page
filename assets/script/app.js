@@ -12,6 +12,34 @@ const CREATION_CONTENT = document.querySelector('.CreationContent');
 const TEXT_CONTENT = document.querySelectorAll('.TextContent');
 const TEXT_HOLDER = document.querySelectorAll('.TextHolder');
 
+if (window.innerWidth < 768) {
+   for (const ImgBox of IMAGE_BOX) {
+      ImgBox.classList.add('hidden');
+   }
+   for (const TXT of TEXT_HOLDER) {
+      TXT.classList.remove('hidden');
+   }
+} else if (window.innerWidth > 767) {
+   for (const TXT of TEXT_HOLDER) {
+		TXT.classList.add('hidden');
+	}
+}
+const AnimationTimer = () => {
+   if (window.innerWidth < 768) {
+		for (const TXT of TEXT_HOLDER) {
+			TXT.classList.remove('hidden');
+		}
+	} else if (window.innerWidth > 767) {
+		for (const TXT of TEXT_HOLDER) {
+			TXT.classList.add('hidden');
+		}
+	}
+}
+window.setInterval(AnimationTimer, 10000);
+
+const BackDrop = () => {
+	BACKDROP.classList.toggle('visible');
+};
 
 const ActionBtnHandler = () => {
    for (const Text of ACTION_BTN_TEXT) {
