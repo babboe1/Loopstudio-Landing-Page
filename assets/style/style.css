@@ -553,6 +553,14 @@ P:hover {
     width: 100%;
     max-width: 8rem;
   }
+  .ActionBtn.Mobile {
+     display: none;
+  }
+  .CreationBox {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1.5rem;
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
