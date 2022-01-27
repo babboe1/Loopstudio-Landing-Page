@@ -608,6 +608,9 @@ P:hover {
          background-image: url(../image/desktop/image-grid.jpg);
       }
    }
+   .Animate {
+      animation: desktop-fade 10s ease-in infinite;
+   }
    .FooterIcon {
       justify-content: flex-end;
       padding: 0rem 0 1.2rem;
