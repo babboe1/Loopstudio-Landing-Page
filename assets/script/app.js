@@ -41,6 +41,32 @@ const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
 };
 
+const StopScroll = () => {
+	document.body.classList.toggle('StopScroll');
+};
+const MenuOptionIn = () => {
+   MENU_OPTION.classList.add('visible');
+   MENU_OPTION.classList.remove('invisible');
+};
+const MenuOptionOut = () => {
+   MENU_OPTION.classList.add('invisible');
+   MENU_OPTION.classList.remove('visible');
+};
+const BackDropHandler = () => {
+   BackDrop();
+   StopScroll();
+   if (MENU_OPTION.classList.contains('visible')) {
+      MenuOptionOut();
+   }
+};
+const MenuBtnHandler = () => {
+   BackDrop();
+	StopScroll();
+   MenuOptionIn();
+};
+const CloseBtnHandler = () => {
+   BackDropHandler();
+};
 const ActionBtnHandler = () => {
    for (const Text of ACTION_BTN_TEXT) {
       if (Text.textContent === 'SEE ALL') {
