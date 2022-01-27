@@ -654,11 +654,30 @@ P:hover {
          height: 15rem;
          padding: 11rem 1rem 0;
       }
-   .FooterIcon {
-      justify-content: flex-end;
-      padding: 0rem 0 1.2rem;
-      font-size: 12px;
+      #footer {
+         padding: 2rem 0rem 0;
+      }
+      .FooterIcon {
+         justify-content: flex-end;
+         padding: 0rem 0 1.2rem;
+         font-size: 12px;
+      }
+   .FooterContent {
+      display: flex;
+      justify-content: space-between;
    }
+   .FooterBox{
+      text-align: start;
+   }
+   .FooterLogo {
+      padding-bottom: 1rem;
+   }
+   ul{
+   flex-direction: row;
+   column-gap: 2rem;
+   font-size: 12px;
+   }
+   
 }
 
 @media screen  and (min-width:1024px) {
