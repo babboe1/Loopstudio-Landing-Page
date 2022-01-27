@@ -12,6 +12,37 @@ const CREATION_CONTENT = document.querySelector('.CreationContent');
 const TEXT_CONTENT = document.querySelectorAll('.TextContent');
 const TEXT_HOLDER = document.querySelectorAll('.TextHolder');
 
+
+const ActionBtnHandler = () => {
+   for (const Text of ACTION_BTN_TEXT) {
+      if (Text.textContent === 'SEE ALL') {
+			for (const ImgBoxes of IMAGE_BOXES) {
+				ImgBoxes.classList.remove('hidden');
+         }
+			Text.textContent = 'COLLAPSE';
+         BG_SLIDE.classList.add('hidden');
+         CREATION_CONTENT.classList.add('animate_easy');
+      } else if (Text.textContent === 'COLLAPSE' && window.innerWidth < 768) {
+			for (const ImgBoxes of IMAGE_BOXES) {
+				ImgBoxes.classList.add('hidden');
+			}
+			Text.textContent = 'SEE ALL';
+         BG_SLIDE.classList.remove('hidden');
+         CREATION_CONTENT.classList.remove('animate_easy');
+      } else if (Text.textContent === 'COLLAPSE' && window.innerWidth > 767) {
+         for (const ImgBoxes of IMAGE_BOXES) {
+				ImgBoxes.classList.add('hidden');
+         }
+         for (const ImgBox of IMAGE_BOX) {
+            ImgBox.classList.remove('hidden');
+         }
+			Text.textContent = 'SEE ALL';
+         BG_SLIDE.classList.remove('hidden');
+         CREATION_CONTENT.classList.remove('animate_easy');
+      }
+   }
+};
+
 BACKDROP.addEventListener('click', BackDropHandler);
 MENU_BTN.addEventListener('click', MenuBtnHandler);
 CLOSE_BTN.addEventListener('click', CloseBtnHandler);
