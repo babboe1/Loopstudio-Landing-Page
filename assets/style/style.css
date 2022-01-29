@@ -50,8 +50,9 @@ body {
 	max-width: 1110px;
 	margin: auto;
 }
-.ImgLogo, .MenuBtn {
-   height: min-content;
+.ImgLogo,
+.MenuBtn {
+	height: min-content;
 }
 .InfoList ul {
    display: none;
