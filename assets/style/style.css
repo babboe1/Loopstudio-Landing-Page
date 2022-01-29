@@ -12,7 +12,7 @@ body {
 	margin: 0;
 }
 .hidden {
-   display: none; 
+	display: none;
    pointer-events: none;
 }
 .ImageSize {
