@@ -213,6 +213,10 @@ body {
 	font-weight: 300;
 	font-size: 20px;
 }
+.CreationImgBox:hover {
+   cursor: pointer;
+   opacity: 0.5;
+}
 .CreationBox {
    display: flex;
    flex-direction: column;
