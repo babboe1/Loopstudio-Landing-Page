@@ -147,23 +147,24 @@ body {
 .Opacity {
 	opacity: 1;
 }
-.TextContent, .Animate {
-   position: absolute;
-    bottom: 15px;
-    left: 15px;
-    opacity: 0;
-   }
+.TextContent,
+.Animate {
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+	opacity: 0;
+}
    .TextHoldder {
       position: absolute;
     bottom: 15px;
     left: 15px;
    }
-   .TextContent {
-      animation: fade-text 32s ease-in infinite;
-   }
-.Text_2{
-   animation-delay:1s;
-   animation-fill-mode: forwards;
+.TextContent {
+	animation: fade-text 32s ease-in infinite;
+}
+.Text_2 {
+	animation-delay: 1s;
+	animation-fill-mode: forwards;
 }
 .Text_3{
    animation-delay:5s;
