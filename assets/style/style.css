@@ -76,11 +76,12 @@ body {
 	animation-fill-mode: forwards;
 }
 @keyframes example {
-  0%, 66.6%{
-     top: 200px;
-     position: relative;
-     width: 60%;
-     font-size: 24px;
+	0%,
+	66.6% {
+		top: 200px;
+		position: relative;
+		width: 60%;
+		font-size: 24px;
      margin:auto;
    }
   33.3%, 100% {
