@@ -100,11 +100,11 @@ body {
 	opacity: 0;
 	padding-top: 17rem;
 	animation: fade-slide-in 0.3s ease-out forwards;
-   height: 1rem
+	height: 1rem;
 }
 .OverviewText {
-   padding: 1rem 2rem;
-   text-align: center;
+	padding: 1rem 2rem;
+	text-align: center;
 }
 .header_2 {
    padding: 1rem 0;
