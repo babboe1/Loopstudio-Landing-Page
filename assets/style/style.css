@@ -218,12 +218,12 @@ body {
    opacity: 0.5;
 }
 .CreationBox {
-   display: flex;
-   flex-direction: column;
-   row-gap: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	row-gap: 1.5rem;
 }
 .animate_easy {
-   animation: easy 1s ease-in forwards;
+	animation: easy 1s ease-in forwards;
 }
 .animate_ease_out {
    animation: easy 1s ease-in forwards reverse;
