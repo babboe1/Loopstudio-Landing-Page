@@ -107,14 +107,14 @@ body {
 	text-align: center;
 }
 .header_2 {
-   padding: 1rem 0;
-   font-size: 32px;
-   font-weight: 300;
-   color: #010101;
-   text-align: center;
+	padding: 1rem 0;
+	font-size: 32px;
+	font-weight: 300;
+	color: #010101;
+	text-align: center;
 }
 .ActionBtn.Desktop {
-   display: none;
+	display: none;
 }
 .LightText {
    font-size: 15px;
