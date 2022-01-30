@@ -140,12 +140,12 @@ body {
 	padding: 3rem 0rem 1rem;
 }
 .CreationContent {
-   display: flex;
-   flex-direction: column;
-   row-gap: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	row-gap: 1.5rem;
 }
 .Opacity {
-   opacity: 1;
+	opacity: 1;
 }
 .TextContent, .Animate {
    position: absolute;
