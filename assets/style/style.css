@@ -411,7 +411,17 @@ ul{
       z-index: -1;
    }
 }
-a, .ActionBtn:hover, li:hover {
+a,
+#nav div :hover,
+#close-btn:hover,
+.ActionBtn:hover,
+.FooterIcon div :hover,
+li:hover {
+	cursor: pointer;
+}
+.ActionText:hover {
+   background:black;
+   color: white;
    cursor: pointer;
 }
 .attribution {
