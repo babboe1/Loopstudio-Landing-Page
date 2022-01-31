@@ -26,14 +26,14 @@ if (window.innerWidth < 768) {
 }
 const AnimationTimer = () => {
    if (window.innerWidth < 768) {
-		for (const TXT of TEXT_HOLDER) {
-			TXT.classList.remove('hidden');
-		}
-	} else if (window.innerWidth > 767) {
-		for (const TXT of TEXT_HOLDER) {
-			TXT.classList.add('hidden');
-		}
-	}
+      for (const TXT of TEXT_HOLDER) {
+         TXT.classList.remove('hidden');
+      }
+   } else if (window.innerWidth > 767) {
+      for (const TXT of TEXT_HOLDER) {
+         TXT.classList.add('hidden');
+      }
+   }
 }
 window.setInterval(AnimationTimer, 10000);
 
