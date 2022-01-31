@@ -27,5 +27,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Loopstudios landing Page](https://your-live-site-url.com)
+- Solution URL: [Loopstudios Landing Page Solution link](https://your-solution-url.com)
+- Live Site URL: [Loopstudios landing Page](https://loopstudio-landings-page.netlify.app/)
