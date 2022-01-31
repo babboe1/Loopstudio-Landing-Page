@@ -239,10 +239,10 @@ body {
 		transform: scale(1);
 	}
 }
-.BgSlide { 
-   overflow: hidden;
-   animation-name: test1, grow;
-  animation-duration: 32s, 8s; 
+.BgSlide {
+	overflow: hidden;
+	animation-name: test1, grow;
+	animation-duration: 32s, 8s;
   animation-iteration-count: infinite, infinite; 
 }
 @keyframes grow {
