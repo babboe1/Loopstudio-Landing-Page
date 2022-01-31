@@ -257,11 +257,11 @@ body {
 	}
 }
 @keyframes test1 {
-   0% {
-      background-image: url(../image/mobile/image-deep-earth.jpg);
-   }
-   12.5% {
-      background-image: url(../image/mobile/image-night-arcade.jpg);
+	0% {
+		background-image: url(../image/mobile/image-deep-earth.jpg);
+	}
+	12.5% {
+		background-image: url(../image/mobile/image-night-arcade.jpg);
    
    }
    25% {
