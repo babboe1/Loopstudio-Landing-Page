@@ -48,3 +48,9 @@ Users should be able to:
 ### Continued development
 
  In the future and coming project, i hope to have fully grasp writing animations keyframe better for my css properties and also will start using Js libraries such as React.js and Css preprocessor such as SASS in writing better codes (performance wise) and improve my efficiency.
+
+## Author
+
+- Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/babboe1)
+- Twitter - [@ausstinab](https://www.twitter.com/ausstinab)
+- LinkedIn - [Ayodele Abiola](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/)
