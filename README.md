@@ -40,3 +40,7 @@ Users should be able to:
 - CSS
 - Mobile-first workflow
 - JavaScript ES6
+
+### Continued development
+
+ In the future and coming project, i hope to have fully grasp writing animations keyframe better for my css properties and also will start using Js libraries such as React.js and Css preprocessor such as SASS in writing better codes (performance wise) and improve my efficiency.
