@@ -243,7 +243,7 @@ body {
 	overflow: hidden;
 	animation-name: test1, grow;
 	animation-duration: 32s, 8s;
-  animation-iteration-count: infinite, infinite; 
+	animation-iteration-count: infinite, infinite;
 }
 @keyframes grow {
    0%{
