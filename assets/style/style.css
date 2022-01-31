@@ -268,23 +268,23 @@ body {
 		background-image: url(../image/mobile/image-soccer-team.jpg);
 	}
 	37.5% {
-      background-image: url(../image/mobile/image-grid.jpg)
-   }
-   50% {
-      background-image: url(../image/mobile/image-from-above.jpg);
-   }
-   62.5% {
-      background-image: url(../image/mobile/image-pocket-borealis.jpg);
-   }
-   75% {
-      background-image: url(../image/mobile/image-curiosity.jpg);
-   }
-   87.5% {
-      background-image: url(../image/mobile/image-fisheye.jpg);
-   }
-   100% {
-      background-image: url(../image/mobile/image-deep-earth.jpg);
-   }
+		background-image: url(../image/mobile/image-grid.jpg);
+	}
+	50% {
+		background-image: url(../image/mobile/image-from-above.jpg);
+	}
+	62.5% {
+		background-image: url(../image/mobile/image-pocket-borealis.jpg);
+	}
+	75% {
+		background-image: url(../image/mobile/image-curiosity.jpg);
+	}
+	87.5% {
+		background-image: url(../image/mobile/image-fisheye.jpg);
+	}
+	100% {
+		background-image: url(../image/mobile/image-deep-earth.jpg);
+	}
 }
 .bg1 {
    background-image: url(../image/mobile/image-deep-earth.jpg);
