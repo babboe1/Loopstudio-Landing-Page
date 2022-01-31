@@ -265,9 +265,9 @@ body {
    
    }
    25% {
-      background-image: url(../image/mobile/image-soccer-team.jpg)
-   }
-   37.5% {
+		background-image: url(../image/mobile/image-soccer-team.jpg);
+	}
+	37.5% {
       background-image: url(../image/mobile/image-grid.jpg)
    }
    50% {
