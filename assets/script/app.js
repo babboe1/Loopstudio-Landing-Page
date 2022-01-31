@@ -34,7 +34,7 @@ const AnimationTimer = () => {
          TXT.classList.add('hidden');
       }
    }
-}
+};
 window.setInterval(AnimationTimer, 10000);
 
 const BackDrop = () => {
