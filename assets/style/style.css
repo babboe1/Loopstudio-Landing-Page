@@ -326,12 +326,12 @@ body {
 	font-weight: bold;
 }
 #footer {
-   color: #e2e1e1;
-   text-align: center;
-   padding: 2rem 2rem 0;
-   width: 100%;
-   max-width: 1110px;
-   margin: auto;
+	color: #e2e1e1;
+	text-align: center;
+	padding: 2rem 2rem 0;
+	width: 100%;
+	max-width: 1110px;
+	margin: auto;
 }
 ul{
    list-style: none;
