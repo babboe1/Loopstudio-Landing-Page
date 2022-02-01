@@ -371,8 +371,8 @@ ul {
 	animation: fade-slide-in 0.8s ease-out forwards;
 }
 .Modal.invisible {
-   display: block; 
-   animation: fade-slide-out .8s ease-out forwards;
+	display: block;
+	animation: fade-slide-out 0.8s ease-out forwards;
 }
 .NavBarModal {
    display: flex;
