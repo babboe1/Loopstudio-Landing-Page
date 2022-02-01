@@ -375,9 +375,9 @@ ul {
 	animation: fade-slide-out 0.8s ease-out forwards;
 }
 .NavBarModal {
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 .ModalList {
    row-gap: 3rem;
