@@ -317,13 +317,13 @@ body {
 .ActionText {
 	border: 1px solid;
 	margin: auto;
-   padding: 0.8rem;
-   text-align: center;
-   max-width: 8rem;
-   word-spacing: 3px;
-   letter-spacing: 2px;
-   font-size: 12px;
-   font-weight: bold;
+	padding: 0.8rem 1.5rem;
+	text-align: center;
+	max-width: 8rem;
+	word-spacing: 3px;
+	letter-spacing: 2px;
+	font-size: 12px;
+	font-weight: bold;
 }
 #footer {
    color: #e2e1e1;
