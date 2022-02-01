@@ -386,18 +386,18 @@ ul {
 	font-size: 1.5rem;
 }
 @keyframes fade-slide-in {
-   from {
-      opacity: 0;
-      display: block;
-      height: auto;
-      width: 0;
-      z-index: 100;
-   }
-   to {
-      opacity: 100%;
-      height: auto;
-      width: 100%;
-   }
+	from {
+		opacity: 0;
+		display: block;
+		height: auto;
+		width: 0;
+		z-index: 100;
+	}
+	to {
+		opacity: 100%;
+		height: auto;
+		width: 100%;
+	}
 }
 @keyframes fade-slide-out {
    from {
