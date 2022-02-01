@@ -311,7 +311,8 @@ body {
 	background-image: url(../image/mobile/image-fisheye.jpg);
 }
 .ActionBtn {
-   padding: 2rem 0rem 6rem;
+	padding: 2rem 0rem 6rem;
+   text-align: center
 }
 .ActionText {
    border: 1px solid;
