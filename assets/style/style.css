@@ -333,11 +333,11 @@ body {
 	max-width: 1110px;
 	margin: auto;
 }
-ul{
-   list-style: none;
-   display: flex;
-   flex-direction: column;
-   row-gap: 2rem;
+ul {
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	row-gap: 2rem;
 }
 .FooterLogo {
    padding-bottom: 4rem;
