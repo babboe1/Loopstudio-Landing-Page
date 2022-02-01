@@ -380,10 +380,10 @@ ul {
 	align-items: center;
 }
 .ModalList {
-   row-gap: 3rem;
-   color:white;
-   padding: 8rem 0;
-   font-size: 1.5rem;
+	row-gap: 3rem;
+	color: white;
+	padding: 8rem 0;
+	font-size: 1.5rem;
 }
 @keyframes fade-slide-in {
    from {
