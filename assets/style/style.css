@@ -315,8 +315,8 @@ body {
    text-align: center
 }
 .ActionText {
-   border: 1px solid;
-   margin: auto;
+	border: 1px solid;
+	margin: auto;
    padding: 0.8rem;
    text-align: center;
    max-width: 8rem;
