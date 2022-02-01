@@ -367,8 +367,8 @@ ul {
 	overflow-x: hidden;
 }
 .Modal.visible {
-   display: block;
-   animation: fade-slide-in .8s ease-out forwards;
+	display: block;
+	animation: fade-slide-in 0.8s ease-out forwards;
 }
 .Modal.invisible {
    display: block; 
