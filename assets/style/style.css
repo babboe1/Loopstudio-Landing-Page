@@ -521,13 +521,13 @@ li:hover {
 			left: 0px;
 			width: 100%;
 			font-size: 44px;
-      margin:auto;
-   }
-66.6% {
-      left: 100px;
-      position: relative;
-      width: 60%;
-      font-size: 24px;
+			margin: auto;
+		}
+		66.6% {
+			left: 100px;
+			position: relative;
+			width: 60%;
+			font-size: 24px;
       margin:auto;
    }
    100% {
