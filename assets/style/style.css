@@ -438,13 +438,13 @@ li:hover {
    #header {
       height: 15rem;
    }
-   #header_1{
-      font-size: 51px;
-   }
-   .CreationImgBox {
-      height: 10rem;
-      padding: 5rem 1rem 0;
-   }
+	#header_1 {
+		font-size: 51px;
+	}
+	.CreationImgBox {
+		height: 10rem;
+		padding: 5rem 1rem 0;
+	}
 }
 @media screen and (min-width: 490px) {
    .overview {
