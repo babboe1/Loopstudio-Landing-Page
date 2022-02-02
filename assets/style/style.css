@@ -486,34 +486,34 @@ li:hover {
 		background-repeat: no-repeat, no-repeat;
 		background-position: center top, center bottom;
 		padding: 2rem 2rem 0;
-   width:768px
-   }
-   #header {
-      height: 5.5rem;
-   }
-   .InfoList ul {
-      display: flex;
-      list-style: none;
-      flex-direction: row;
-      column-gap: 1.5rem;
-      color: white;
-   }
-   .MenuBtn {
-   display: none;
-   }
-   #nav {
-      padding: 0.5rem;
-      font-size: 14px;
-   }
-   .Header_1 {
-   max-width: 25rem;
-   }
-   @keyframes example {
-   0% {
-      left: 300px;
-      position: relative;
-      width: 60%;
-      font-size: 24px;
+		width: 768px;
+	}
+	#header {
+		height: 5.5rem;
+	}
+	.InfoList ul {
+		display: flex;
+		list-style: none;
+		flex-direction: row;
+		column-gap: 1.5rem;
+		color: white;
+	}
+	.MenuBtn {
+		display: none;
+	}
+	#nav {
+		padding: 0.5rem;
+		font-size: 14px;
+	}
+	.Header_1 {
+		max-width: 25rem;
+	}
+	@keyframes example {
+		0% {
+			left: 300px;
+			position: relative;
+			width: 60%;
+			font-size: 24px;
       margin:auto;
    }
    33.3% {
