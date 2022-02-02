@@ -461,11 +461,12 @@ li:hover {
 		max-width: 26rem;
 	}
 	@keyframes example {
-   0%, 66.6% {
-      top: 200px;
-      position: relative;
-      width: 60%;
-      font-size: 34px;
+		0%,
+		66.6% {
+			top: 200px;
+			position: relative;
+			width: 60%;
+			font-size: 34px;
       margin:auto;
       }
 		33.3%,
