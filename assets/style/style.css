@@ -403,14 +403,14 @@ ul {
    from {
       opacity: 100%;
       height: auto;
-      width: 100%
-   }
-   to {
-      opacity: 0;
-      height: auto;
-      width: 0;
-      z-index: -1;
-   }
+		width: 100%;
+	}
+	to {
+		opacity: 0;
+		height: auto;
+		width: 0;
+		z-index: -1;
+	}
 }
 a,
 #nav div :hover,
