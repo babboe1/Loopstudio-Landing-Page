@@ -480,12 +480,12 @@ li:hover {
 	}
 }
 @media screen and (min-width: 768px) {
-   #body_content {
-   background: url(../image/desktop/image-hero.jpg), url(../image/Black.jpg);
-   background-size: contain, 90rem 10rem;
-   background-repeat: no-repeat, no-repeat;
-   background-position: center top, center bottom;
-   padding: 2rem 2rem 0;
+	#body_content {
+		background: url(../image/desktop/image-hero.jpg), url(../image/Black.jpg);
+		background-size: contain, 90rem 10rem;
+		background-repeat: no-repeat, no-repeat;
+		background-position: center top, center bottom;
+		padding: 2rem 2rem 0;
    width:768px
    }
    #header {
