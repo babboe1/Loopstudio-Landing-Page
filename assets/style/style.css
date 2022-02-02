@@ -435,9 +435,9 @@ li:hover {
 }
 
 @media screen and (min-width: 425px) {
-   #header {
-      height: 15rem;
-   }
+	#header {
+		height: 15rem;
+	}
 	#header_1 {
 		font-size: 51px;
 	}
