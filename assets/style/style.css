@@ -535,25 +535,25 @@ li:hover {
 			left: 0px;
 			width: 100%;
 			font-size: 44px;
-      margin:auto;
-   }
-}
-.overview {
-   padding-top: 5rem;
-   display: flex;
-}
-.ImgHero {
-   z-index: -1;
-}
-.ImageSize.auto {
-   height: auto;
-}
-.OverviewText {
-   max-width: 23rem;
-    width: 100%;
-    margin-left: -5rem;
-    padding: 4.5rem 0rem 0rem;
-}
+			margin: auto;
+		}
+	}
+	.overview {
+		padding-top: 5rem;
+		display: flex;
+	}
+	.ImgHero {
+		z-index: -1;
+	}
+	.ImageSize.auto {
+		height: auto;
+	}
+	.OverviewText {
+		max-width: 23rem;
+		width: 100%;
+		margin-left: -5rem;
+		padding: 4.5rem 0rem 0rem;
+	}
 .header_2{
     background: white;
     padding: 3rem 0rem 0rem;
