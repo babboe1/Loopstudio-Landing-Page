@@ -447,20 +447,20 @@ li:hover {
 	}
 }
 @media screen and (min-width: 490px) {
-   .overview {
-   padding-top: 24rem;
-   }
-   #header_1 {
-   font-size: 60px;
-   }
-   .CreationImgBox {
-      height: 12rem;
-      padding: 8rem 1rem 0;
-   }
-   .Header_1 {
-      max-width: 26rem;
-   }
-   @keyframes example {
+	.overview {
+		padding-top: 24rem;
+	}
+	#header_1 {
+		font-size: 60px;
+	}
+	.CreationImgBox {
+		height: 12rem;
+		padding: 8rem 1rem 0;
+	}
+	.Header_1 {
+		max-width: 26rem;
+	}
+	@keyframes example {
    0%, 66.6% {
       top: 200px;
       position: relative;
