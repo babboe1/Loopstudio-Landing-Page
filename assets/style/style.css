@@ -400,9 +400,9 @@ ul {
 	}
 }
 @keyframes fade-slide-out {
-   from {
-      opacity: 100%;
-      height: auto;
+	from {
+		opacity: 100%;
+		height: auto;
 		width: 100%;
 	}
 	to {
