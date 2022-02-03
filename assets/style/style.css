@@ -554,19 +554,19 @@ li:hover {
 		margin-left: -5rem;
 		padding: 4.5rem 0rem 0rem;
 	}
-.header_2{
-    background: white;
-    padding: 3rem 0rem 0rem;
-}
-.LightText {
-     padding: 1rem 0 0 3rem;
-    background: white;
-    line-height: 1rem;
-    text-align: start;
-    font-size: 12px;
-  }
-  .CreationTextBox {
-     display: flex;
+	.header_2 {
+		background: white;
+		padding: 3rem 0rem 0rem;
+	}
+	.LightText {
+		padding: 1rem 0 0 3rem;
+		background: white;
+		line-height: 1rem;
+		text-align: start;
+		font-size: 12px;
+	}
+	.CreationTextBox {
+		    display: flex;
     align-items: center;
      justify-content: space-between;
   }
