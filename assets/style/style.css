@@ -666,9 +666,10 @@ li:hover {
 		animation-duration: 10s, 10s;
       animation-iteration-count: infinite;
    }
-      .bg2, .bg6 {
-      animation-name: test2, grow;
-      animation-duration: 10s, 10s; 
+	.bg2,
+	.bg6 {
+		animation-name: test2, grow;
+		animation-duration: 10s, 10s;
       animation-iteration-count: infinite;
    }
       .bg3, .bg7 {
