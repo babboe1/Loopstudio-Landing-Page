@@ -682,24 +682,24 @@ li:hover {
 	.bg8 {
 		animation-name: test4, grow;
 		animation-duration: 10s, 10s;
-         animation-iteration-count: infinite;
-      }
-      .CreationImgBox {
-         height: 15rem;
-         padding: 11rem 1rem 0;
-      }
-      #footer {
-         padding: 2rem 0rem 0;
-      }
-      .FooterIcon {
-         justify-content: flex-end;
-         padding: 0rem 0 1.2rem;
-         font-size: 12px;
-      }
-   .FooterContent {
-      display: flex;
-      justify-content: space-between;
-   }
+		animation-iteration-count: infinite;
+	}
+	.CreationImgBox {
+		height: 15rem;
+		padding: 11rem 1rem 0;
+	}
+	#footer {
+		padding: 2rem 0rem 0;
+	}
+	.FooterIcon {
+		justify-content: flex-end;
+		padding: 0rem 0 1.2rem;
+		font-size: 12px;
+	}
+	.FooterContent {
+		display: flex;
+		justify-content: space-between;
+	}
    .FooterBox{
       text-align: start;
    }
