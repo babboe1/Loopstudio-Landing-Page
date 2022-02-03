@@ -700,12 +700,12 @@ li:hover {
 		display: flex;
 		justify-content: space-between;
 	}
-   .FooterBox{
-      text-align: start;
-   }
-   .FooterLogo {
-      padding-bottom: 1rem;
-   }
+	.FooterBox {
+		text-align: start;
+	}
+	.FooterLogo {
+		padding-bottom: 1rem;
+	}
    ul{
    flex-direction: row;
    column-gap: 2rem;
