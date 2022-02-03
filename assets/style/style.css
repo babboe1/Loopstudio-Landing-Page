@@ -653,10 +653,13 @@ li:hover {
 		animation-delay: 7s;
 		animation-fill-mode: forwards;
 	}
-   .BG5, .BG6, .BG7, .BG8 {
-      animation-delay:2s;
-      animation-fill-mode: forwards;
-   }
+	.BG5,
+	.BG6,
+	.BG7,
+	.BG8 {
+		animation-delay: 2s;
+		animation-fill-mode: forwards;
+	}
    .bg1, .bg5 {
       animation-name: test1, grow;
       animation-duration: 10s, 10s; 
