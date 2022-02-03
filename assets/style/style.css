@@ -660,9 +660,10 @@ li:hover {
 		animation-delay: 2s;
 		animation-fill-mode: forwards;
 	}
-   .bg1, .bg5 {
-      animation-name: test1, grow;
-      animation-duration: 10s, 10s; 
+	.bg1,
+	.bg5 {
+		animation-name: test1, grow;
+		animation-duration: 10s, 10s;
       animation-iteration-count: infinite;
    }
       .bg2, .bg6 {
