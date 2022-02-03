@@ -638,13 +638,14 @@ li:hover {
 		0% {
 			opacity: 1;
 		}
-      50%, 100%{
-         opacity: 0;
-      }
-   }
-   .BgSlide {
-      display: none;
-   }
+		50%,
+		100% {
+			opacity: 0;
+		}
+	}
+	.BgSlide {
+		display: none;
+	}
    .BG1, .BG2, .BG3, .BG4{
       animation-delay:7s;
       animation-fill-mode: forwards;
