@@ -625,16 +625,16 @@ li:hover {
 			background-image: url(../image/desktop/image-grid.jpg);
 		}
 		50% {
-         background-image: url(../image/desktop/image-fisheye.jpg)
-      }
-      100% {
-         background-image: url(../image/desktop/image-grid.jpg);
-      }
-   }
-   .Animate {
-      animation: desktop-fade 10s ease-in infinite;
-   }
-   @keyframes desktop-fade {
+			background-image: url(../image/desktop/image-fisheye.jpg);
+		}
+		100% {
+			background-image: url(../image/desktop/image-grid.jpg);
+		}
+	}
+	.Animate {
+		animation: desktop-fade 10s ease-in infinite;
+	}
+	@keyframes desktop-fade {
       0%{
          opacity: 1;
       }
