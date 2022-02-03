@@ -568,63 +568,63 @@ li:hover {
 	.CreationTextBox {
 		    display: flex;
     align-items: center;
-     justify-content: space-between;
-  }
-  .ActionBtn.Desktop {
-    display: block;
-    padding: 3rem 0 0;
-    width: 100%;
-    max-width: 8rem;
-  }
-  .ActionBtn.Mobile {
-     display: none;
-  }
-  .CreationBox {
-    display: flex;
-    flex-direction: row;
-    column-gap: 1.5rem;
-   }
-   .CreationContent {
-      padding-bottom: 9rem;
-   }
-   @keyframes test1 {
-      0% {
-         background-image: url(../image/desktop/image-deep-earth.jpg);
-      }
-      50% {
-         background-image: url(../image/desktop/image-from-above.jpg);
-      }
-      100% {
-         background-image: url(../image/desktop/image-deep-earth.jpg);
-      }
-   }
-   @keyframes test2 {
-      0% {
-         background-image: url(../image/desktop/image-night-arcade.jpg);
-      }
-      50% {
-         background-image: url(../image/desktop/image-pocket-borealis.jpg);
-      }
-      100% {
-         background-image: url(../image/desktop/image-night-arcade.jpg);
-      }
-   }
-   @keyframes test3 {
-      0% {
-         background-image: url(../image/desktop/image-soccer-team.jpg);
-      }
-      50% {
-         background-image: url(../image/desktop/image-curiosity.jpg);
-      }
-      100% {
-         background-image: url(../image/desktop/image-soccer-team.jpg);
-      }
-   }
-   @keyframes test4 {
-      0% {
-         background-image: url(../image/desktop/image-grid.jpg);
-      }
-      50% {
+    justify-content: space-between;
+	}
+	.ActionBtn.Desktop {
+		display: block;
+		padding: 3rem 0 0;
+		width: 100%;
+		max-width: 8rem;
+	}
+	.ActionBtn.Mobile {
+		display: none;
+	}
+	.CreationBox {
+		display: flex;
+		flex-direction: row;
+		column-gap: 1.5rem;
+	}
+	.CreationContent {
+		padding-bottom: 9rem;
+	}
+	@keyframes test1 {
+		0% {
+			background-image: url(../image/desktop/image-deep-earth.jpg);
+		}
+		50% {
+			background-image: url(../image/desktop/image-from-above.jpg);
+		}
+		100% {
+			background-image: url(../image/desktop/image-deep-earth.jpg);
+		}
+	}
+	@keyframes test2 {
+		0% {
+			background-image: url(../image/desktop/image-night-arcade.jpg);
+		}
+		50% {
+			background-image: url(../image/desktop/image-pocket-borealis.jpg);
+		}
+		100% {
+			background-image: url(../image/desktop/image-night-arcade.jpg);
+		}
+	}
+	@keyframes test3 {
+		0% {
+			background-image: url(../image/desktop/image-soccer-team.jpg);
+		}
+		50% {
+			background-image: url(../image/desktop/image-curiosity.jpg);
+		}
+		100% {
+			background-image: url(../image/desktop/image-soccer-team.jpg);
+		}
+	}
+	@keyframes test4 {
+		0% {
+			background-image: url(../image/desktop/image-grid.jpg);
+		}
+		50% {
          background-image: url(../image/desktop/image-fisheye.jpg)
       }
       100% {
