@@ -706,11 +706,11 @@ li:hover {
 	.FooterLogo {
 		padding-bottom: 1rem;
 	}
-   ul{
-   flex-direction: row;
-   column-gap: 2rem;
-   font-size: 12px;
-   }
+	ul {
+		flex-direction: row;
+		column-gap: 2rem;
+		font-size: 12px;
+	}
    
 }
 
