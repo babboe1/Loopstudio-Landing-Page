@@ -635,9 +635,9 @@ li:hover {
 		animation: desktop-fade 10s ease-in infinite;
 	}
 	@keyframes desktop-fade {
-      0%{
-         opacity: 1;
-      }
+		0% {
+			opacity: 1;
+		}
       50%, 100%{
          opacity: 0;
       }
