@@ -746,19 +746,19 @@ li:hover {
 			left: 0px;
 			width: 100%;
 			font-size: 54px;
-         margin:auto;
-      }
-   }
-   .header_2 {
-      padding: 4rem 0rem 0rem;
-   }
-   .OverviewText {
-      max-width: 33rem;
-      margin-left: -13rem;
-      padding: 9.6rem 0rem 0rem 6rem;
-   }
-   .overview {
-      padding-top: 10rem; 
+			margin: auto;
+		}
+	}
+	.header_2 {
+		padding: 4rem 0rem 0rem;
+	}
+	.OverviewText {
+		max-width: 33rem;
+		margin-left: -13rem;
+		padding: 9.6rem 0rem 0rem 6rem;
+	}
+	.overview {
+		padding-top: 10rem;
    }
    #body_content {
       padding: 2rem 5rem 0;
