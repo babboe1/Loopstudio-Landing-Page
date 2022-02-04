@@ -559,9 +559,9 @@ li:hover {
 		font-size: 12px;
 	}
 	.CreationTextBox {
-		    display: flex;
-    align-items: center;
-    justify-content: space-between;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
 	}
 	.ActionBtn.Desktop {
 		display: block;
