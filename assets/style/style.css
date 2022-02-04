@@ -759,20 +759,20 @@ li:hover {
 	}
 	.overview {
 		padding-top: 10rem;
-   }
-   #body_content {
-      padding: 2rem 5rem 0;
-   }
-   .LightText {
-      padding: 1rem 0 0 5rem;
-   }
-   .CreationImgBox {
-      height: 20rem;
-      padding: 16rem 1rem 0;
-   }
-   ul {
-      font-size: 16px;
-   }
+	}
+	#body_content {
+		padding: 2rem 5rem 0;
+	}
+	.LightText {
+		padding: 1rem 0 0 5rem;
+	}
+	.CreationImgBox {
+		height: 20rem;
+		padding: 16rem 1rem 0;
+	}
+	ul {
+		font-size: 16px;
+	}
 }
 @media screen and (min-width: 1040px){
    #body_content {
