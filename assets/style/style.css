@@ -776,12 +776,12 @@ li:hover {
 }
 @media screen and (min-width: 1040px){
    #body_content {
-      width: 1040px
-   }
-   .OverviewText {
-      max-width: 26rem;
-      padding: 16rem 0rem 0rem;
-   }
+		width: 1040px;
+	}
+	.OverviewText {
+		max-width: 26rem;
+		padding: 16rem 0rem 0rem;
+	}
 }
 @media screen and (min-width: 1440px) {
    #body_content {
