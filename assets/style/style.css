@@ -414,9 +414,9 @@ li:hover {
 	cursor: pointer;
 }
 .ActionText:hover {
-   background:black;
-   color: white;
-   cursor: pointer;
+	background: black;
+	color: white;
+	cursor: pointer;
 }
 .attribution {
 	font-size: 11px;
