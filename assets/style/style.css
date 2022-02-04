@@ -706,25 +706,25 @@ li:hover {
 	}
 }
 
-@media screen  and (min-width:1024px) {
-   #body_content{
-      width: 1024px;
-   }
-   #nav {
-      font-size: 16px;
-   }
-   #header {
-      height: 8.5rem;
-   }
-   .Header_1 {
-      max-width: 32rem;
-   }
-   @keyframes example {
-      0% {
-         left: 300px;
-         position: relative;
-         width: 60%;
-         font-size: 34px;
+@media screen and (min-width: 1024px) {
+	#body_content {
+		width: 1024px;
+	}
+	#nav {
+		font-size: 16px;
+	}
+	#header {
+		height: 8.5rem;
+	}
+	.Header_1 {
+		max-width: 32rem;
+	}
+	@keyframes example {
+		0% {
+			left: 300px;
+			position: relative;
+			width: 60%;
+			font-size: 34px;
          margin:auto;
       }
       50% {
