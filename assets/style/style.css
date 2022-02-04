@@ -154,11 +154,6 @@ body {
 	left: 15px;
 	opacity: 0;
 }
-   .TextHoldder {
-      position: absolute;
-    bottom: 15px;
-    left: 15px;
-   }
 .TextContent {
 	animation: fade-text 32s ease-in infinite;
 }
