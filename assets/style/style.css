@@ -784,25 +784,25 @@ li:hover {
 	}
 }
 @media screen and (min-width: 1440px) {
-   #body_content {
-      background-size: 1440px 650px, 90rem 10rem;
-      width: 1440px;
-   }
-   #header {
-      height: 13rem;
-   }
-   .Header_1 {
-      max-width: 40rem;
-   }
-   .overview {
-      padding-top: 16rem;
-   }
-   @keyframes example {
-      0% {
-         left: 300px;
-         position: relative;
-         width: 60%;
-         font-size: 44px;
+	#body_content {
+		background-size: 1440px 650px, 90rem 10rem;
+		width: 1440px;
+	}
+	#header {
+		height: 13rem;
+	}
+	.Header_1 {
+		max-width: 40rem;
+	}
+	.overview {
+		padding-top: 16rem;
+	}
+	@keyframes example {
+		0% {
+			left: 300px;
+			position: relative;
+			width: 60%;
+			font-size: 44px;
          margin:auto;
       }
       50% {
