@@ -824,25 +824,25 @@ li:hover {
 			left: 0px;
 			width: 100%;
 			font-size: 64px;
-         margin:auto;
-      }
-   }
-   .header_2 {
-      padding: 4rem 0rem 0rem;
-   }
-   .LightText {
-      font-size: 16px;
-      line-height: 1.5rem;
-   }
-   .OverviewText {
-      max-width: 39rem;
-      padding: 14.5rem 0rem 0rem 6rem;
-   }
-   .OverviewText h2 {
-      padding: 4rem 3rem 0rem;
-   }
-   .CreationImgBox {
-      height: 28rem;
-      padding: 24rem 1rem 0;
-   }
+			margin: auto;
+		}
+	}
+	.header_2 {
+		padding: 4rem 0rem 0rem;
+	}
+	.LightText {
+		font-size: 16px;
+		line-height: 1.5rem;
+	}
+	.OverviewText {
+		max-width: 39rem;
+		padding: 14.5rem 0rem 0rem 6rem;
+	}
+	.OverviewText h2 {
+		padding: 4rem 3rem 0rem;
+	}
+	.CreationImgBox {
+		height: 28rem;
+		padding: 24rem 1rem 0;
+	}
 }
