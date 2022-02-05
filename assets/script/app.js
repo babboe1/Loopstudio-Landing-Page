@@ -70,8 +70,8 @@ const CloseBtnHandler = () => {
 	BackDropHandler();
 };
 const ActionBtnHandler = () => {
-   for (const Text of ACTION_BTN_TEXT) {
-      if (Text.textContent === 'SEE ALL') {
+	for (const Text of ACTION_BTN_TEXT) {
+		if (Text.textContent === 'SEE ALL') {
 			for (const ImgBoxes of IMAGE_BOXES) {
 				ImgBoxes.classList.remove('hidden');
          }
