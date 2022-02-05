@@ -22,7 +22,7 @@ if (window.innerWidth < 768) {
       TXT.classList.remove('hidden');
    }
 } else if (window.innerWidth > 767) {
-   for (const TXT of TEXT_HOLDER) {
+	for (const TXT of TEXT_HOLDER) {
 		TXT.classList.add('hidden');
 	}
 }
