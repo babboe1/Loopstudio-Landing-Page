@@ -64,7 +64,7 @@ const BackDropHandler = () => {
 const MenuBtnHandler = () => {
 	BackDrop();
 	StopScroll();
-   MenuOptionIn();
+	MenuOptionIn();
 };
 const CloseBtnHandler = () => {
    BackDropHandler();
