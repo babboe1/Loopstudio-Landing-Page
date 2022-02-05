@@ -55,11 +55,11 @@ const MenuOptionOut = () => {
 	MENU_OPTION.classList.remove('visible');
 };
 const BackDropHandler = () => {
-   BackDrop();
-   StopScroll();
-   if (MENU_OPTION.classList.contains('visible')) {
-      MenuOptionOut();
-   }
+	BackDrop();
+	StopScroll();
+	if (MENU_OPTION.classList.contains('visible')) {
+		MenuOptionOut();
+	}
 };
 const MenuBtnHandler = () => {
 	BackDrop();
