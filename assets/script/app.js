@@ -51,8 +51,8 @@ const MenuOptionIn = () => {
 	MENU_OPTION.classList.remove('invisible');
 };
 const MenuOptionOut = () => {
-   MENU_OPTION.classList.add('invisible');
-   MENU_OPTION.classList.remove('visible');
+	MENU_OPTION.classList.add('invisible');
+	MENU_OPTION.classList.remove('visible');
 };
 const BackDropHandler = () => {
    BackDrop();
