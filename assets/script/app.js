@@ -47,8 +47,8 @@ const StopScroll = () => {
 	document.body.classList.toggle('StopScroll');
 };
 const MenuOptionIn = () => {
-   MENU_OPTION.classList.add('visible');
-   MENU_OPTION.classList.remove('invisible');
+	MENU_OPTION.classList.add('visible');
+	MENU_OPTION.classList.remove('invisible');
 };
 const MenuOptionOut = () => {
    MENU_OPTION.classList.add('invisible');
