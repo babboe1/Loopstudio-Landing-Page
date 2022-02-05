@@ -74,7 +74,7 @@ const ActionBtnHandler = () => {
 		if (Text.textContent === 'SEE ALL') {
 			for (const ImgBoxes of IMAGE_BOXES) {
 				ImgBoxes.classList.remove('hidden');
-         }
+			}
 			Text.textContent = 'COLLAPSE';
          BG_SLIDE.classList.add('hidden');
          CREATION_CONTENT.classList.add('animate_easy');
