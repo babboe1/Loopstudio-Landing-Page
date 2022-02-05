@@ -67,7 +67,7 @@ const MenuBtnHandler = () => {
 	MenuOptionIn();
 };
 const CloseBtnHandler = () => {
-   BackDropHandler();
+	BackDropHandler();
 };
 const ActionBtnHandler = () => {
    for (const Text of ACTION_BTN_TEXT) {
