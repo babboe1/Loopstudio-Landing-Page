@@ -803,13 +803,13 @@ li:hover {
 			position: relative;
 			width: 60%;
 			font-size: 44px;
-         margin:auto;
-      }
-      50% {
-         position: relative;
-         left: 0px;
-         width: 100%;
-         font-size: 64px;
+			margin: auto;
+		}
+		50% {
+			position: relative;
+			left: 0px;
+			width: 100%;
+			font-size: 64px;
          margin:auto;
       }
       75% {
