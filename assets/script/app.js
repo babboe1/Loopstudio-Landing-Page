@@ -93,10 +93,10 @@ const ActionBtnHandler = () => {
 				ImgBox.classList.remove('hidden');
 			}
 			Text.textContent = 'SEE ALL';
-         BG_SLIDE.classList.remove('hidden');
-         CREATION_CONTENT.classList.remove('animate_easy');
-      }
-   }
+			BG_SLIDE.classList.remove('hidden');
+			CREATION_CONTENT.classList.remove('animate_easy');
+		}
+	}
 };
 
 BACKDROP.addEventListener('click', BackDropHandler);
