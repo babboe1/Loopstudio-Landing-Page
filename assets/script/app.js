@@ -83,10 +83,10 @@ const ActionBtnHandler = () => {
 				ImgBoxes.classList.add('hidden');
 			}
 			Text.textContent = 'SEE ALL';
-         BG_SLIDE.classList.remove('hidden');
-         CREATION_CONTENT.classList.remove('animate_easy');
-      } else if (Text.textContent === 'COLLAPSE' && window.innerWidth > 767) {
-         for (const ImgBoxes of IMAGE_BOXES) {
+			BG_SLIDE.classList.remove('hidden');
+			CREATION_CONTENT.classList.remove('animate_easy');
+		} else if (Text.textContent === 'COLLAPSE' && window.innerWidth > 767) {
+			for (const ImgBoxes of IMAGE_BOXES) {
 				ImgBoxes.classList.add('hidden');
          }
          for (const ImgBox of IMAGE_BOX) {
