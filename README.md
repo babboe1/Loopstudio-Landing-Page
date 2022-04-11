@@ -24,7 +24,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/image/Screenshot (363).png)
 
 ### Links
 
