@@ -22,10 +22,10 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot\
+### Screenshot
 
 Below is a preview of the Loops Studio Landing Page challenge by Frontend Mentor
-![](./assets/images/Preview.jpg?raw=true "Preview Image")
+![screenshot](./assets/images/Preview.jpg?raw=true "Preview Image")
 
 
 ### Links
