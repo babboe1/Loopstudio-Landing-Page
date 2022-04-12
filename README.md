@@ -25,6 +25,7 @@ Users should be able to:
 ### Screenshot\
 
 Below is a preview of the Loops Studio Landing Page challenge by Frontend Mentor
+![]
 
 
 ### Links
