@@ -30,7 +30,7 @@ Below is a preview of the Loops Studio Landing Page challenge by Frontend Mentor
 
 ### Links
 
-- Solution URL: [Challenge Solution Page](https://your-solution-url.com)
+- Solution URL: [Challenge Solution Page](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-Q2wxDkhbP)
 - Live Site URL: [Loopstudios Landing Page](https://loopstudio-landings-page.netlify.app/)
 
 ## My process
