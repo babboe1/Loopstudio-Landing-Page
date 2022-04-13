@@ -31,7 +31,7 @@ Below is a preview of the Loops Studio Landing Page challenge by Frontend Mentor
 ### Links
 
 - Solution URL: [Loopstudios Landing Page Solution link](https://your-solution-url.com)
-- Live Site URL: [Loopstudios landing Page](https://loopstudio-landings-page.netlify.app/)
+- Live Site URL: [Challenge Solution Page](https://loopstudio-landings-page.netlify.app/)
 
 ## My process
 
